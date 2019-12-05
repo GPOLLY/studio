@@ -3,7 +3,7 @@ html{
   scroll-behavior: smooth;
 }
 
-.landing{
+.section1{
     background-image: url('../images/backgrounds/h_img.jpg');
     background-position: center center;
     background-size: cover;
@@ -15,10 +15,10 @@ html{
     /* padding-bottom:5%; */
   }
   
-.landing h1{
+.section1 h1{
   padding: 2px;
   margin: 5px;
  }
-.landing p{
+.section1 p{
   padding: 2px;
  }
