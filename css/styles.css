@@ -103,7 +103,7 @@ html{
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
-   /* text-align: center; */
+   
 }
 .title{
   padding: 6px;
@@ -183,7 +183,7 @@ footer p{
       top: 20px;
       left: 16px;
       padding-top: 20%;
-      /* font-size: 16px; */
+      
     }
     .col-md-3 img{
       width:100%px;
